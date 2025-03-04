@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **yanliuse7@gmail.com**
 
-- ⚡ Fun fact **I love programming, reading and video games.**
+- ⚡ Fun fact **I love programming, reading and playing video games.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
