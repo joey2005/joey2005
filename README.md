@@ -6,7 +6,3 @@
 - 📫 How to reach me **yanliuse7@gmail.com**
 
 - ⚡ Fun fact **I love programming, reading and playing video games.**
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joey2005&show_icons=true&locale=en&layout=compact" alt="joey2005" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joey2005&show_icons=true&locale=en" alt="joey2005" /></p>
